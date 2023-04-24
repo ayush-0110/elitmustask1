@@ -1,6 +1,6 @@
 # elitmustask1
 
-#Feelingz: game built around emotions
+# Feelingz: game built around emotions
 
 ## This is an imteractive quiz website, which is centered around the theme of : EMOTIONS.
 
@@ -32,7 +32,7 @@ P.S. : Just because I used 'Concurrently' package and added some scripts, one ju
 5. Assessing various soft skills.
 
 ## Levels:
-level 1: A riddle
+level 1: A riddle.
 Level 2: Involves critical thinking and observation, user has to search something from a link.
 Level 3: Attention to detail, Perseverance are assessed. User has to watch a video and answer a question.
 Level 4: jigsaw puzzle.
